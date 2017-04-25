@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491974983 source:e:\prims\main.cpp
+	<prims.h>
+
+1491975121 e:\prims\include\prims.h
+	<iostream>
+	<climits>
+
+1491975376 source:e:\prims\src\prims.cpp
+	"prims.h"
+

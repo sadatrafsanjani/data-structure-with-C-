@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489983165 source:e:\insertionsort\main.cpp
+	<iostream>
+	<insertionsort.h>
+
+1489983176 e:\insertionsort\include\insertionsort.h
+

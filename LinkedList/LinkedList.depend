@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1490154840 source:e:\linkedlist\main.cpp
+	"node.h"
+	"list.h"
+
+1490153696 e:\linkedlist\include\node.h
+
+1490154827 e:\linkedlist\include\list.h
+	"node.h"
+	<cstddef>
+	<iostream>
+
+1490154353 source:e:\linkedlist\src\list.cpp
+	"list.h"
+
+1490153705 source:e:\linkedlist\src\node.cpp
+	"node.h"
+

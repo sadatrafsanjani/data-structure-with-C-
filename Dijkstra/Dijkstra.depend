@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491885075 source:e:\dijkstra\src\dijkstra.cpp
+	"dijkstra.h"
+
+1491885060 e:\dijkstra\include\dijkstra.h
+	<iostream>
+	<climits>
+
+1491885220 source:e:\dijkstra\main.cpp
+	<dijkstra.h>
+

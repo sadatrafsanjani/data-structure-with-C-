@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1489980621 source:e:\selectionsort\main.cpp
+	<iostream>
+	"include/selectionsort.h"
+
+1489980556 e:\selectionsort\include\selectionsort.h
+
+1489980672 source:e:\selectionsort\src\selectionsort.cpp
+	"selectionsort.h"
+
